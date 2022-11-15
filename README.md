@@ -99,3 +99,23 @@ Also, I create contents for beginner programmer to find their ways to do their b
 
 [![My Skills](https://img.shields.io/youtube/channel/subscribers/UCeoFeWoQNHozbRmwuPCLcQg?style=for-the-badge)](https://www.youtube.com/HappyDeveloper)
 [![My Skills](https://img.shields.io/youtube/channel/views/UCeoFeWoQNHozbRmwuPCLcQg?style=for-the-badge)](https://www.youtube.com/HappyDeveloper)
+  
+  
+  
+   ---------------------------------------- ----------------------------------------
+  
+  <center><h2>I’m amir Hossein cheraghi </h2>
+<center><li>
+My Email: <a href="mailto:Cheraghi.2007@outlook.com">Cheraghi.2007@outlook.com</a>
+</li></br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amircfyt&" alt="valentinefernandes" />
+<details>
+<summary>click me!</summary>
+<p align="center"></br>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amircfyt&show_icons=true&locale=en&layout=compact" alt="kimjayden" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=amircfyt&show_icons=true&count_private=true&include_all_commits=true" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=amircfyt&row=2&column=3" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amircfyt&theme=github" />
+
+</details>
+<a align="center" href="https://coffeebede.ir/buycoffee/amircfyt"><img align="center" style="width:200px;margin-left:1000px"  src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
